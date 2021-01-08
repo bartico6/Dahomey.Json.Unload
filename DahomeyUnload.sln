@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DahomeyUnload", "DahomeyUnload\DahomeyUnload.csproj", "{80A204A4-FBC0-4FD4-A04A-402C47697A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryLoaded", "LibraryLoaded\LibraryLoaded.csproj", "{1F48EA14-B85E-4D49-A6C9-B9333518EACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A204A4-FBC0-4FD4-A04A-402C47697A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A204A4-FBC0-4FD4-A04A-402C47697A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A204A4-FBC0-4FD4-A04A-402C47697A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A204A4-FBC0-4FD4-A04A-402C47697A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F48EA14-B85E-4D49-A6C9-B9333518EACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F48EA14-B85E-4D49-A6C9-B9333518EACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F48EA14-B85E-4D49-A6C9-B9333518EACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F48EA14-B85E-4D49-A6C9-B9333518EACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6399678D-8D67-4983-8AD7-160B0B63EE93}
+	EndGlobalSection
+EndGlobal

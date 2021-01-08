@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Dahomey.Json">
+      <HintPath>..\References\Dahomey.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
